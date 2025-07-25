@@ -1,1 +1,0 @@
-// [surahId].tsx - placeholder content
