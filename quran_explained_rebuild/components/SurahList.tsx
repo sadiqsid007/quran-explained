@@ -1,0 +1,1 @@
+// SurahList.tsx - placeholder content

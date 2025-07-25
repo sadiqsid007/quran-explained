@@ -1,0 +1,1 @@
+// TafsirTooltip.tsx - placeholder content
